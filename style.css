@@ -1,0 +1,51 @@
+.container{
+    width: 380px;
+    height: 500px;
+    background-color:rgba(255, 255, 255, 0.795);
+    text-align: center;
+    margin-left: 30%;
+}
+h1{
+    color: brown;
+}
+body{
+    background-color: lightblue;
+}
+.fname{
+    width: 145px;
+    height: 26px;
+    margin-top: 22px;
+    
+}
+.lname{
+    width: 145px;
+    height: 26px;
+    margin-top: 22px;
+
+}
+.input .inpt{
+    width: 300px;
+    height: 26px;
+    margin-top: 22px;
+}
+.gender{
+    margin-top: 22px;
+    font-size: 22px;
+    margin-right: 144px;
+    
+}
+.register{
+    width: 309px;
+    height: 33px;
+    border: none;
+    color: yellow;
+    background-color: rgb(235,187,0);
+    font-size: 20px;
+    margin-top: 22px;
+    margin-left: 36px;
+    margin-right: none;
+}
+.register :hover{
+    background-color: rgb(140, 0, 255);
+    
+}
